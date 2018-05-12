@@ -1,4 +1,8 @@
 _repo: The-Hidden-Servants-and-Other-Very-Old-Stories_47962
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47962-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Alexander, Francesca
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44549
     wikipedia: http://en.wikipedia.org/wiki/Francesca_Alexander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47962#The-Hidden-Servants-and-Other-Very-Old-Stories
 gutenberg_issued: '2015-01-12'
 gutenberg_type: Text
 identifiers:
